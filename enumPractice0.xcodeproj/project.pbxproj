@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D099246A289264E7008112DB /* enumPractice0App.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0992469289264E7008112DB /* enumPractice0App.swift */; };
+		D099246A289264E7008112DB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0992469289264E7008112DB /* main.swift */; };
 		D099246C289264E7008112DB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D099246B289264E7008112DB /* ContentView.swift */; };
 		D099246E289264E8008112DB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D099246D289264E8008112DB /* Assets.xcassets */; };
 		D0992471289264E8008112DB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0992470289264E8008112DB /* Preview Assets.xcassets */; };
@@ -35,7 +35,7 @@
 
 /* Begin PBXFileReference section */
 		D0992466289264E7008112DB /* enumPractice0.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = enumPractice0.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		D0992469289264E7008112DB /* enumPractice0App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = enumPractice0App.swift; sourceTree = "<group>"; };
+		D0992469289264E7008112DB /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		D099246B289264E7008112DB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D099246D289264E8008112DB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D0992470289264E8008112DB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -95,7 +95,7 @@
 		D0992468289264E7008112DB /* enumPractice0 */ = {
 			isa = PBXGroup;
 			children = (
-				D0992469289264E7008112DB /* enumPractice0App.swift */,
+				D0992469289264E7008112DB /* main.swift */,
 				D099246B289264E7008112DB /* ContentView.swift */,
 				D099246D289264E8008112DB /* Assets.xcassets */,
 				D0992472289264E8008112DB /* enumPractice0.entitlements */,
@@ -260,7 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D099246C289264E7008112DB /* ContentView.swift in Sources */,
-				D099246A289264E7008112DB /* enumPractice0App.swift in Sources */,
+				D099246A289264E7008112DB /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
